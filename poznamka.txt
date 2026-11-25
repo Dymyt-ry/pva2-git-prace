@@ -1,0 +1,2 @@
+Toto je moje první poznámka v repozitáři na GitHubu.
+Procvičuju Git: clone, commit a push.
