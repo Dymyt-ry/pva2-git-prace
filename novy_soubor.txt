@@ -1,0 +1,2 @@
+Nový soubor z větve feat/new_file.
+Tahle změna půjde do main přes pull request.
